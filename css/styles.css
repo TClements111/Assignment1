@@ -1,0 +1,70 @@
+/*Tanner Clements 8931873*/
+body{
+    width : 90vw;
+    max-width : 100vw;
+    font: normal, normal, bold, 18px, Verdana, Serif, Arial;
+    margin: 10px auto;
+    padding: 3em;
+}
+
+.header, footer{
+    padding:5px;
+    margin: 5px;
+    border : 3px solid rgb(238, 129, 255);
+    border-radius: 10px;
+    clear : both;
+}
+
+h1, h2{
+    color: rgb(255, 190, 84);
+    font-variant: small-caps;
+}
+
+footer p{
+    font-size: smaller;
+    color: rgb(25, 175, 100);
+}
+
+main{
+    float : left;
+    width : 66.6%;
+    padding : 5px;
+    margin : 3px;
+}
+
+aside{
+    float : right;
+    padding : 5px;
+    margin : 3px;
+}
+
+
+.mainimg{
+    border : 3px solid rgb(238, 129, 255);
+    width : 35%;
+}
+
+figcaption{
+    font-style : bold;
+    font-variant : small-caps;
+}
+
+q{
+    font-family : cursive;
+    font-style: italic;
+    font-size: larger;
+}
+
+ul li{
+    list-style-type : none;
+    line-height : 50px;
+}
+
+li > a{
+    text-decoration: none;
+    color : rgb(220,40,110);
+}
+
+aside a:hover{
+    color : rgb(40, 100, 202)
+}
