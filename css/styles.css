@@ -35,7 +35,7 @@ tr{
 }
 
 nav{
-    color: rgb(69, 155, 247);
+    color: black;
 }
 
 .flexnav a:hover{
@@ -44,13 +44,13 @@ nav{
 
 h1, h2{
     font-size: 2em;
-    color: gold;
+    color: black;
     font-variant: small-caps;
 }
 
 footer p{
     font-size: smaller;
-    color: gold;
+    color: black;
 }
 
 main{
@@ -59,7 +59,7 @@ main{
 }
 
 aside{
-    background: url(doss1);
+    background: url(doss1.jpg);
 }
 
 .ppp{
@@ -103,7 +103,7 @@ ul li{
 
 li > a{
     text-decoration: none;
-    color : rgb(69, 155, 247);
+    color : black;
 }
 
 aside a:hover{
